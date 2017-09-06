@@ -1,0 +1,13 @@
+{
+    "name": "sid/composer-test",
+    "description": "Experimenting with composer",
+    "type": "library",
+    "license": "MI",
+    "authors": [
+        {
+            "name": "sid",
+            "email": "siddharth.thevaril@gmail.com"
+        }
+    ],
+    "require": {}
+}
