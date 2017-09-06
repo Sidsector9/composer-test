@@ -9,5 +9,7 @@
             "email": "siddharth.thevaril@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+		"monolog/monolog": "*"
+	}
 }
